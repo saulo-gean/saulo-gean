@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, sou o Saulo Gean 🚀
 
-<!--
-**saulo-gean/saulo-gean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco e interesse em ingressar na área de QA (Analista de Qualidade) e testes de software, motivado por garantir que os usuários tenham a melhor experiência possível. Tenho vivência com testes manuais, APIs, estudos de automação com Cypress e uso de ferramentas como Postman. Estou sempre buscando evolução na área de QA, com foco em aprendizado contínuo e entrega de valor.
 
-Here are some ideas to get you started:
+Minha missão é ir além dos testes: quero contribuir para produtos mais estáveis, fluxos mais inteligentes e uma comunicação clara entre times. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ✨ Sobre mim
+
+🧪 Experiência com testes manuais, exploratórios e análise de bugs
+🔁 Familiaridade com testes de API utilizando Postman (validação de status e regras de negócio)
+🤖 Estudando automação de testes com Cypress e JavaScript
+👨🏻‍💻 Atualmente cursando Análise e Desenvolvimento de Sistemas, unindo a base teórica com a prática
+🛠️ Criação de projetos para GitHub com foco em aprendizado e visibilidade técnica
+🌱 Sempre aprendendo e evoluindo na área de qualidade, com interesse especial em processos ágeis e boas práticas de desenvolvimento
+
+📌 Em construção
+Atualmente, estou construindo um portfólio com foco em automações, testes de API e boas práticas de QA — tudo documentado aqui no meu GitHub. Se quiser acompanhar minha jornada ou trocar uma ideia sobre qualidade de software, será um prazer! 😊
+
+# Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+# Alguns Projetos!
+
+🔗 [QA Practice – Expand Testing](https://github.com/saulo-gean/qa-practice-expandtesting)
+Este projeto é focado na prática de QA, utilizando uma aplicação de estudos para validação de diferentes cenários funcionais, contemplando a criação de testes manuais, registro de bugs e início de automação com Cypress.
+
+# Minhas redes sociais!
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) (https://www.linkedin.com/in/saulo-gean)
