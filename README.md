@@ -22,8 +22,9 @@ Atualmente, estou construindo um portfólio com foco em automações, testes de 
 
 # Alguns Projetos!
 
-🔗 [QA Practice – Expand Testing](https://github.com/saulo-gean/qa-practice-expandtesting)
-Este projeto é focado na prática de QA, utilizando uma aplicação de estudos para validação de diferentes cenários funcionais, contemplando a criação de testes manuais, registro de bugs e início de automação com Cypress.
+🔗 [QA Practice – Expand Testing]
+(https://github.com/saulo-gean/qa-practice-expandtesting)
+Este projeto contém casos de teste manuais e o início da automação com Cypress desenvolvidos para a aplicação Expand Testing, com foco em boas práticas de QA.
 
 # Minhas redes sociais!
 
