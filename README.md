@@ -25,7 +25,7 @@ Atualmente, estou construindo um portfólio com foco em automações, testes de 
 🔗 QA Practice – Expand Testing
 https://github.com/saulo-gean/qa-practice-expandtesting
 
-Projeto com casos de teste manuais e início da automação utilizando Cypress, desenvolvido para a aplicação Expand Testing, com foco em boas práticas de QA, planejamento de testes e automação.
+Projeto de QA desenvolvido para a aplicação Expand Testing, envolvendo elaboração de casos de teste manuais e introdução à automação com Cypress, com foco em boas práticas de QA, planejamento e execução de testes.
 
 🔗 Timeless LumeStack – QA Tests
 https://github.com/saulo-gean/Timeless-LumeStack-QA-Tests
